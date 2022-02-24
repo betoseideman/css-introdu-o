@@ -1,0 +1,27 @@
+header {
+    background-color: red;
+    color: white;
+}
+.container-model {
+    background-color: white;    
+}
+.container-model h1 {
+    color: white;
+}
+.container-space {
+    background-color: #070972;   
+}
+.container-space h1 {
+    color: white;   
+}
+footer {
+    background-color: black;
+    color: white;
+}
+.model {
+    background-color: #070972;
+    color: white;
+}
+.space {
+    background-color: #CCCCCC;
+}
